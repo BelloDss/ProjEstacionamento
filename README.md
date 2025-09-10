@@ -24,5 +24,4 @@ Este projeto foi criado com o objetivo de **reforçar boas práticas de desenvol
 
 ---
 Dev - Matheus Bello
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+
