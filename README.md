@@ -4,7 +4,7 @@
 Projeto desenvolvido com o foco em projetar o sistema de um estacionamento em **C#**, utilizando conceitos de **Programação Orientada a Objetos (POO)**, como **classes, métodos e encapsulamento**.  
 O sistema permite **cadastrar, remover e listar veículos** de forma prática e organizada.  
 
-Este projeto foi criado com o objetivo de **reforçar boas práticas de desenvolvimento** e consolidar os fundamentos da linguagem C#.
+Este projeto foi criado com o objetivo de **reforçar boas práticas de desenvolvimento** e consolidar os fundamentos da linguagem C#, junto a os ensinamentos obtidos no curso do senai.
 
 ---
 
