@@ -11,7 +11,7 @@ Este projeto foi criado com o objetivo de **reforçar boas práticas de desenvol
 ## ⚙️ Funcionalidades
 - Definir **preço inicial** e **preço por hora** do estacionamento  
 - **Cadastrar veículos** através da placa  
-- **Remover veículos**, calculando o valor total a pagar  
+- **Remover veículos**, calculando o valor total a pagar por h  
 - **Listar veículos** cadastrados  
 - Menu interativo no console para navegação  
 
